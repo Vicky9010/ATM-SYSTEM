@@ -26,8 +26,8 @@ Steps to Run
 
 Clone the repository (if uploaded to GitHub):
 
-git clone https://github.com/your-username/ATM-Simulator.git
-cd ATM-Simulator
+git clone (https://github.com/Vicky9010/ATM-SYSTEM)
+cd ATM-SYSTEM
 
 Compile the program:
 
